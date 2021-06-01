@@ -4,11 +4,11 @@ servers:
   - description: SwaggerHub API Auto Mocking
     url: https://virtserver.swaggerhub.com/effective-temp/luxury-dash-v2/1.0.0
 info:
-  description: Luxary Dash Development API
+  description: Documentation of Damboo (LuxuryDash) API. 
   version: "1.0.0"
-  title: Luxary Dash API
+  title: Damboo (LuxuryDash) Dash API
   contact:
-    email: you@your-company.com
+    email: contact@damboo.com
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'

@@ -1,6 +1,6 @@
 # API Documentation
 
-- Edit API specification in swagger.yaml
+- Edit API specification in [swagger.yaml](https://github.com/LuxuryDash/API/blob/master/swagger.yaml)
 - View specification via SwaggerUI on https://luxurydash.github.io/API/
 
 Notes: 
